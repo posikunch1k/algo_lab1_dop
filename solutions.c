@@ -13,3 +13,8 @@ int apples_dividing(int n, int k) {
     }
     return k % n;
 }
+
+//Задача 3
+int meters_to_kilo(int meters) {
+    return meters / 1000;
+}
